@@ -1,2 +1,2 @@
-## Tic-tac-toe
-A simple tic-tac-toe game, written in Java
+## Tic-tac-toe_commandline
+A simple commandline tic-tac-toe game, written in Java
