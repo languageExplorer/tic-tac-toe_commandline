@@ -10,7 +10,6 @@ import javafx.stage.Stage;
 
 
 public class GUI extends Application{
-
     // Starting GUI
     @Override
     public void start(Stage primaryStage) {
